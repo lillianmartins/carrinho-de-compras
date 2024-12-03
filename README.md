@@ -1,4 +1,4 @@
-![Programação-Lógica de Programação: Projeto Carrinho de Compras]()
+![Programação-Lógica de Programação: Projeto Carrinho de Compras](https://github.com/user-attachments/assets/8e5e9a8e-6621-4859-ba59-30c5c944fcf8)
 
 # Projeto Carrinho de Compras
 O objetivo do jogo consiste em implementar funcionalidades como adicionar novos itens, calcular o valor total dos produtos e criar um botão para limpar o carrinho zerando os itens e o valor.
@@ -11,8 +11,8 @@ O objetivo do jogo consiste em implementar funcionalidades como adicionar novos 
 - `Funções`: utilizá-las para organizar o código e reutilizar blocos de código.
 
 ## Acesse o projeto 
-[GitHub]()  
-[Link]() 
+[GitHub](https://github.com/lillianmartins/carrinho-de-compras)  
+[Link](https://carrinho-de-compras-by5v.vercel.app/) 
 
 ## Mais informações sobre o curso
 Acesse [Alura](https://www.alura.com.br/curso-online-logica-programacao-praticando-desafios)
